@@ -2,6 +2,9 @@ body {
 	color: black;
 	font-family: sans-serif;
 	font-size: 16px;
+	
+	background-image: url("/-/images/blue.jpg");
+	background-size: cover;
 }
 
 h1 {
@@ -33,6 +36,5 @@ h6 {
 }
 
 .jumbotron {
-	background-image: url("/-/images/blue.jpg");
-	background-size: cover;
+	
 }
