@@ -80,14 +80,14 @@ a:hover {
 
 .nav a {
     display:inline-block;
-    padding-left: 200px;
+}
+
+#nav-bar a {
+	font-size: 1.2em;
+	padding-left: 200px;
     padding-right: 200px;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-.nav-bar * {
-	font-size: 1.2em;
 }
 
 
