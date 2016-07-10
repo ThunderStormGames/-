@@ -3,6 +3,6 @@ h1 {
 }
 
 .jumbotron {
-	background-image: url("/-/images/lightning.png");
-	background-size: auto;
+	background-image: url("/-/images/blue.jpg");
+	background-size: cover;
 }
