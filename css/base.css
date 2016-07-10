@@ -39,7 +39,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-.jumbotron {
+#jumbotron {
 	padding-top: 30px;
 }
 
@@ -51,7 +51,7 @@ a:hover {
 	padding-left: 30px;
 }
 
-.title {
+#title {
 	position: relative;
 	top: 400px;
 }
@@ -67,7 +67,7 @@ a:hover {
 	color: white;
 }
 
-.nav-list * {
+#nav-list li {
 	padding-right: 100px;
 }
 
