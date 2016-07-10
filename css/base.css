@@ -43,14 +43,6 @@ a:hover {
 	padding-top: 30px;
 }
 
-.list-inline * {
-	display: inline;
-}
-
-.list-inline li {
-	padding-left: 30px;
-}
-
 #title {
 	position: relative;
 	top: 400px;
@@ -67,14 +59,21 @@ a:hover {
 	background-color: black;
 }
 
+.list-inline * {
+	display: inline;
+	text-align: center;
+}
+
+.list-inline li {
+	padding-left: 30px;
+}
+
 .nav-container * {
 	color: white;
 }
 
 #nav-list {
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 #nav-list li {
