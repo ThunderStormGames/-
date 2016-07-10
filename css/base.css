@@ -41,3 +41,8 @@ h6 {
 .title {
 	text-align: center;
 }
+
+.quick-links {
+	text-align: center;
+	display: inline;
+}
