@@ -40,7 +40,7 @@ a:hover {
 }
 
 .jumbotron {
-	
+	padding-top: 30px;
 }
 
 .list-inline * {
@@ -52,8 +52,8 @@ a:hover {
 }
 
 .title {
-	position:relative;
-	top: 400;
+	position: relative;
+	position-top: 10px;
 }
 
 .nav-container {
