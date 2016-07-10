@@ -1,5 +1,31 @@
 h1 {
 	color: black;
+	font-family: "Helvetica";
+}
+
+h2 {
+	color: black;
+	font-family: "Helvetica";
+}
+
+h3 {
+	color: black;
+	font-family: sans-serif;
+}
+
+h4 {
+	color: black;
+	font-family: sans-serif;
+}
+
+h5 {
+	color: black;
+	font-family: sans-serif;
+}
+
+h6 {
+	color: black;
+	font-family: sans-serif;
 }
 
 .jumbotron {
