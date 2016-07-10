@@ -52,16 +52,14 @@ a:hover {
 	transform: rotate(1deg);
 }
 
-#nav-container {
+.nav-container {
 	position: relative;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	margin-left: auto;
-	margin-left: auto;
 	background-color: black;
 }
 
-#nav-container * {
+.nav-container * {
 	color: white;
 	text-align: center;
 }
@@ -71,15 +69,22 @@ a:hover {
     border-width:1px 0;
     list-style:none;
     margin:0;
-    padding:0;
+    padding-top: 20;
+    padding-bottom: 20;
     text-align:center;
 }
+
 .nav li {
     display:inline;
 }
+
 .nav a {
     display:inline-block;
     padding:10px;
+}
+
+.nav-bar {
+	font-size: 3em;
 }
 
 
