@@ -82,7 +82,7 @@ h6 {
     padding-bottom: 20px;
 }
 
-#nav-bar a:hover {
+#nav-bar a {
 	background-color: white;
 	color: black;
 }
