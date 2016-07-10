@@ -56,6 +56,8 @@ a:hover {
 	position: relative;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	margin-left: auto;
+	margin-left: auto;
 	background-color: black;
 }
 
@@ -78,8 +80,6 @@ a:hover {
 
 #nav-list li {
 	padding-left: 0px;
-	margin-left: auto;
-	margin: right;
 	font-size: 3em;
 }
 
