@@ -35,4 +35,8 @@ h6 {
 	
 }
 
+.list-inline li {
+	display: inline;
+}
+
 
