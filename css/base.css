@@ -49,7 +49,7 @@ h6 {
 }
 
 .quick-links-items {
-	display: inline;
+	display: block;
 	float: left;
 }
 
