@@ -31,14 +31,6 @@ h6 {
 	
 }
 
-a, a:link, a:visited, a:active { 
-	text-decoration: none; 
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
 #jumbotron {
 	padding-top: 30px;
 }
