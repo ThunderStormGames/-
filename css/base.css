@@ -57,6 +57,7 @@ a:hover {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	transform: rotate(7deg);
 }
 
 .nav-container {
