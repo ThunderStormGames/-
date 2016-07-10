@@ -60,6 +60,11 @@ a:hover {
 	position: relative;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	background-color: black;
+}
+
+.nav-container * {
+	color: white;
 }
 
 
