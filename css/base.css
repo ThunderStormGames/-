@@ -67,8 +67,8 @@ a:hover {
 	color: white;
 }
 
-.nav-list {
-	padding-left: 80px;
+.nav-list * {
+	padding-left: 100px;
 }
 
 
