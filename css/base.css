@@ -35,7 +35,7 @@ h6 {
 	
 }
 
-.list-inline li {
+.list-inline * {
 	display: inline;
 	padding-left: 30px;
 }
