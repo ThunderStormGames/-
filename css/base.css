@@ -31,6 +31,14 @@ h6 {
 	
 }
 
+a, a:link, a:visited, a:active { 
+	text-decoration: none; 
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 .jumbotron {
 	
 }
@@ -43,9 +51,15 @@ h6 {
 	padding-left: 30px;
 }
 
-#nav-container {
-	position: relative;
-	top: 300px;
+.title {
+	position:relative;
+	top: 300;
 }
+
+.nav-container {
+	position: relative;
+	top: -100px;
+}
+
 
 
