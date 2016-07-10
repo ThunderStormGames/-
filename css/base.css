@@ -52,7 +52,7 @@ a:hover {
 	transform: rotate(1deg);
 }
 
-.nav-container {
+#nav-container {
 	position: relative;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -70,7 +70,7 @@ a:hover {
 	padding-left: 30px;
 }
 
-.nav-container * {
+#nav-container * {
 	color: white;
 }
 
