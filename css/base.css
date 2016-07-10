@@ -77,7 +77,9 @@ a:hover {
 }
 
 #nav-list li {
-	padding-left: 400px;
+	padding-left: 0px;
+	margin-left: auto;
+	margin: right;
 	font-size: 3em;
 }
 
