@@ -61,27 +61,25 @@ a:hover {
 	background-color: black;
 }
 
-.list-inline * {
-	display: inline;
+#nav-container * {
+	color: white;
 	text-align: center;
 }
 
-.list-inline li {
-	padding-left: 30px;
+.nav {
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
 }
-
-#nav-container * {
-	color: white;
+.nav li {
+    display:inline;
 }
-
-#nav-list {
-	display: block;
+.nav a {
+    display:inline-block;
+    padding:10px;
 }
-
-#nav-list li {
-	padding-left: 0px;
-	font-size: 3em;
-}
-
 
 
