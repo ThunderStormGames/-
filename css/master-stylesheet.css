@@ -33,6 +33,7 @@ form { margin: 0; padding: 0; display: inline; } label { cursor: pointer; }
 .nopadding { padding: 0; } 
 .nobullet { list-style: none; list-style-image: none; }
 .inline { display: inline; }
+.inline li { display: inline; }
 .block { display: block; list-style-type: none;}
 .padLeft { padding-left: 30px; }
 .padRight { padding-right: 30px; }
