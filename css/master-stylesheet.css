@@ -2,10 +2,11 @@
 html, body { margin: 0px; padding: 0px; border: 0px; } 
 body { font: 16px sans-serif, Arial, Helvetica; }  
 /* Headlines */ 
-h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }  
+h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; color: black; }  
 /* Text Styles */ 
-p, th, td, li, dd, dt, ul, ol, blockquote, q, acronym, abbr, a, input, select, textarea { margin: 0; padding: 0 } 
-blockquote { margin: 1.25em; padding: 1.25em } q { font-style: italic; } 
+p, th, td, li, dd, dt, ul, ol, blockquote, q, acronym, abbr, a, input, select, textarea { margin: 0; padding: 0; color: black; } 
+blockquote { margin: 1.25em; padding: 1.25em } 
+q { font-style: italic; } 
 acronym, abbr { cursor: help; border-bottom: 1px dashed; } 
 small { font-size:.85em; } 
 big { font-size:1.2em; }  
@@ -16,7 +17,8 @@ img { border: none; }
 /* Tables */ 
 table { margin: 0; padding: 0; border: none; }  
 /* Forms */ 
-form { margin: 0; padding: 0; display: inline; } label { cursor: pointer; }  
+form { margin: 0; padding: 0; display: inline; } 
+label { cursor: pointer; }  
 /* Common Classes */ 
 .clear { clear: both; } 
 .float-left { float: left; } 
