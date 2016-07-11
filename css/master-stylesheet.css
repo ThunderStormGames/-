@@ -37,7 +37,7 @@ label { cursor: pointer; }
 .nobullet { list-style: none; list-style-image: none; }
 .inline { display: inline; }
 .block {display: block;}
-.block { display: block; list-style-type: none;}
 .pad-left { padding-left: 30px; }
 .pad-right { padding-right: 30px; }
-.foot * { text-align: center; vertical-align: bottom; line-height: 90px; padding: 10px; }
+.foot { position: fixed; top: 0; left: 50%; }
+.head { position: fixed; bottom: 0; left: 50%; }
