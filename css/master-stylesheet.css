@@ -39,5 +39,5 @@ label { cursor: pointer; }
 .block {display: block;}
 .pad-left { padding-left: 30px; }
 .pad-right { padding-right: 30px; }
-.foot { position: fixed; top: 0%; left: 50%; }
-.head { position: fixed; bottom: 2%; left: 50%; }
+.foot { position: fixed; bottom: 3%; left: 50%; }
+.head { position: fixed; top: 0%; left: 50%; }
