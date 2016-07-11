@@ -5,7 +5,11 @@ body { font: 16px sans-serif, Arial, Helvetica; }
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; color: black; }  
 /* Text Styles */ 
 p, th, td, li, dd, dt, ul, ol, blockquote, q, acronym, abbr, a, input, select, textarea { margin: 0; padding: 0; color: black; } 
-blockquote { margin: 1.25em; padding: 1.25em } 
+blockquote {
+	margin: 1em 3em;
+	color: #999;
+	border-left: 2px solid #999;
+	padding-left: 1em; }
 q { font-style: italic; } 
 acronym, abbr { cursor: help; border-bottom: 1px dashed; } 
 small { font-size:.85em; } 
@@ -41,3 +45,9 @@ label { cursor: pointer; }
 .pad-right { padding-right: 30px; }
 .foot { position: fixed; bottom: 3%; left: 50%; }
 .head { position: fixed; top: 0%; left: 50%; }
+.rounded {
+	background-color: #666;
+	color: #fff;
+	padding: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px; }
