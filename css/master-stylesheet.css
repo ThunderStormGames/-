@@ -40,5 +40,4 @@ label { cursor: pointer; }
 .block { display: block; list-style-type: none;}
 .pad-left { padding-left: 30px; }
 .pad-right { padding-right: 30px; }
-.foot * { display: table-row; vertical-align: bottom; height : 1px; }
-.foot {	height:100%; border-collapse:collapse; display : table; }
+.foot * { text-align: center; vertical-align: bottom; line-height: 90px; padding: 10px; }
